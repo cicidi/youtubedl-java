@@ -26,7 +26,7 @@ public class YoutubeDL {
     /**
      * Youtube-dl executable name
      */
-    protected static String executablePath = "youtube-dl";
+    protected static String executablePath = "yt-dlp";
 
     /**
      * Append executable name to command
